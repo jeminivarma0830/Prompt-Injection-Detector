@@ -18,9 +18,6 @@ prompt-injection-detector/
 ├── test_detector.py   # Quick test script
 └── data/
     └── sample_data.json
-```
-
----
 
 ## ⚙️ Setup
 
