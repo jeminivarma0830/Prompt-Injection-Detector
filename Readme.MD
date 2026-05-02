@@ -9,7 +9,7 @@ A fine-tuned BERT-based classifier that detects malicious prompt injection attem
 ```
 prompt-injection-detector/
 ├── README.md
-├── requirements.txt
+├── requirements.txx
 ├── config.py          # All settings in one place
 ├── dataset.py         # Load & prepare training data
 ├── train.py           # Fine-tune the model
